@@ -1,4 +1,2 @@
 # devops-aula03
-Rami Malek
-Angelina Jolie
-Megan Fox
+Repositório para Aula 3
